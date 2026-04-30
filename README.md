@@ -47,7 +47,7 @@ draw 함수에 보면 serial.available()>0 이라는 조건이 걸려있는데,
 
 1. `circuit.png`를 참고하여 회로를 구성합니다. 회로에 맞게 가변저항 (potentiometer) 4개를 arduino에 연결합니다.
    
-2. Arduino 코드를 arudni uno에 업로드합니다. 업로드가 다 되었다면 이제 p5 차례.
+2. Arduino 코드를 arduino uno에 업로드합니다. 업로드가 다 되었다면 이제 p5 차례.
  
 3. visual studio code에서 open folder를 하고 p5serial폴더를 열어줍니다.
  
