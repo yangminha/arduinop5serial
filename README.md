@@ -51,7 +51,7 @@ draw 함수에 보면 serial.available()>0 이라는 조건이 걸려있는데,
  
 3. visual studio code에서 open folder를 하고 p5serial폴더를 열어줍니다.
  
-4. live server가 안깔려있다면 깔아주시고, vs code하단의 go live 버튼을 눌러 p5.js 코드를 실행합니다.
+4. live server가 안깔려있다면 extensions 아이콘을 눌르고 검색해서 깔아주시고, 깔았다면 vs code 우측하단의 go live 버튼을 눌러 p5.js 코드를 실행합니다.
  
 5. connect 버튼을 누르면 serial 연결 다이알로그 화면이 뜰거에요. 연결해주면 끝!
  
